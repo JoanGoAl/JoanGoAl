@@ -33,9 +33,6 @@
 </p>
 <div>
 
-<a target="_blank" href="#"><img src=""/></a>
-
-
 <a href="https://github.com/JoanGoAl">
   <p style="display: inline-block;" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoanGoAl&layout=compact&theme=dark"  width = 400/>
